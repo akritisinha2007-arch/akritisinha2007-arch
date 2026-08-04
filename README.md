@@ -22,6 +22,17 @@
 
 Building consistency by learning and shipping code every day.
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akritisinha2007-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akritisinha2007-arch&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=akritisinha2007-arch&theme=tokyonight&hide_border=true"/>
+</p>
+
 Current focus:
 - 💻 DSA
 - 🐍 Python
