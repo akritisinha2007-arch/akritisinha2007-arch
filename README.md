@@ -22,6 +22,13 @@
 
 Building consistency by learning and shipping code every day.
 
+Current focus:
+- 💻 DSA
+- 🐍 Python
+- 🔐 Cybersecurity
+- 🌐 Web Development
+- 🤖 Machine Learning
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -33,12 +40,6 @@ Building consistency by learning and shipping code every day.
   <img width="70%" src="https://streak-stats.demolab.com?user=akritisinha2007-arch&theme=tokyonight&hide_border=true"/>
 </p>
 
-Current focus:
-- 💻 DSA
-- 🐍 Python
-- 🔐 Cybersecurity
-- 🌐 Web Development
-- 🤖 Machine Learning
 
 ## 🛠️ Tech Stack
 
