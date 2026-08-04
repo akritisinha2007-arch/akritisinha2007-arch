@@ -41,6 +41,14 @@ Current focus:
 </p>
 
 
+## 🎯 Currently Working On
+
+- 💻 Data Structures & Algorithms (Java)
+- 🐍 Python
+- 🤖 Machine Learning
+- 🔐 Cybersecurity
+- 🌐 Web Development
+
 ## 🛠️ Tech Stack
 
 Languages:
