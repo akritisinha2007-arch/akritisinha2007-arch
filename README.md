@@ -82,6 +82,12 @@ Currently Exploring:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akritisinha2007-arch&theme=tokyo-night&hide_border=true"/>
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=akritisinha2007-arch&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
 ⭐ Thanks for visiting my profile!
 
 <!--
