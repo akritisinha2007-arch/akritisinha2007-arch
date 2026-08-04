@@ -64,6 +64,8 @@ Currently Exploring:
 - Networking
 - Linux
 - TryHackMe
+- FastAPI
+- GitHub Actions
 
 ## 📈 Goals for 2026
 
@@ -112,6 +114,8 @@ Currently Exploring:
 
 - 💼 LinkedIn: linkedin.com/in/akriti-sinha-60b664370
 - 📧 Email: akritisinha2007@gmail.com
+
+> "Small commits. Every day. Big results."
 
 ⭐ Thanks for visiting my profile!
 
