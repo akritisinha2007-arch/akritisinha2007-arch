@@ -88,6 +88,11 @@ Currently Exploring:
 <img src="https://github-profile-trophy.vercel.app/?username=akritisinha2007-arch&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
+## 📫 Connect with Me
+
+- 💼 LinkedIn: linkedin.com/in/akriti-sinha-60b664370
+- 📧 Email: akritisinha2007@gmail.com
+
 ⭐ Thanks for visiting my profile!
 
 <!--
