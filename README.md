@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Akriti Sinha
+#  Hey, I'm Akriti Sinha
 
-### 💻 CSE Student | AI/ML • Cybersecurity 
+###  CSE Student | AI/ML • Cybersecurity 
 
-> **Learning. Building. Breaking things. Fixing them. Repeating. 🚀**
+> **Learning. Building. Breaking things. Fixing them. Repeating. **
 
 I'm a Computer Science student passionate about building practical projects at the intersection of **Artificial Intelligence, Cybersecurity, and Software Development**.
 
@@ -10,38 +10,27 @@ Currently focused on strengthening my fundamentals in **DSA, Machine Learning, C
 
 ---
 
-## 🚀 What I'm Currently Working On
+## Tech Stack
 
-* 🔐 Exploring **Cybersecurity**
-* 🤖 Building and experimenting with **Machine Learning projects**
-* 💻 Practicing **DSA with Java**
-* 🌐 Learning and building with **Web Technologies**
-* 🏆 Participating in **Hackathons & technical challenges**
-* 🛠️ Improving my projects, GitHub, and development workflow
-
----
-
-## 🧰 Tech Stack
-
-### 👩‍💻 Languages
+###  Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
 
-### 🤖 AI / ML
+### AI / ML
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
-### 🔐 Cybersecurity
+###  Cybersecurity
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge\&logo=cisco\&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)
 
-### 🛠️ Tools
+###  Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -49,9 +38,9 @@ Currently focused on strengthening my fundamentals in **DSA, Machine Learning, C
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🔐 Security Copilot
+###  Security Copilot
 
 An AI-powered cybersecurity project focused on helping users analyze security-related information and understand potential threats.
 
@@ -59,7 +48,7 @@ An AI-powered cybersecurity project focused on helping users analyze security-re
 
 ---
 
-### 📊 Telco Churn Prediction
+### Telco Churn Prediction
 
 A Machine Learning project that predicts customer churn using telecom customer data.
 
@@ -67,7 +56,7 @@ A Machine Learning project that predicts customer churn using telecom customer d
 
 ---
 
-### 🛒 E-Commerce Cart System
+###  E-Commerce Cart System
 
 A Python-based e-commerce cart system demonstrating object-oriented programming and core software development concepts.
 
@@ -75,7 +64,7 @@ A Python-based e-commerce cart system demonstrating object-oriented programming 
 
 ---
 
-### 🧠 DSA with Java
+### DSA with Java
 
 My ongoing journey of strengthening problem-solving and algorithmic thinking through Java-based DSA practice.
 
@@ -83,58 +72,7 @@ My ongoing journey of strengthening problem-solving and algorithmic thinking thr
 
 ---
 
-## 🏆 What I'm Building Towards
-
-```text
-                ┌─────────────────────┐
-                │   Strong CS Core    │
-                └──────────┬──────────┘
-                           │
-              ┌────────────┼────────────┐
-              ▼            ▼            ▼
-           DSA           AI/ML    Cybersecurity
-              │            │            │
-              └────────────┼────────────┘
-                           ▼
-                 Real-World Projects
-                           │
-                           ▼
-                     Hackathons
-                           │
-                           ▼
-                  Continuous Growth 🚀
-```
-
-My goal is to keep moving from **learning concepts → building projects → solving real problems → shipping better software.**
-
----
-
-## 📈 My Learning Journey
-
-I'm currently working on becoming stronger in:
-
-* 🧩 Data Structures & Algorithms
-* 🤖 Machine Learning & AI
-* 🔐 Cybersecurity & AI Security
-* 🌐 Full-Stack Development
-* 🐧 Linux & Computer Networks
-
----
-
-## 💡 Beyond Code
-
-When I'm not coding, you'll probably find me:
-
-🎨 Exploring creative/design work
-📚 Reading and learning new things
-🏆 Working on hackathons
-💃 Dancing
-🎵 Practicing music
-🌱 Trying to become a little better every day
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always interested in connecting with people who are learning, building, experimenting, and creating cool things.
 
