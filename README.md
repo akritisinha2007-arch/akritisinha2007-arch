@@ -87,11 +87,11 @@ I'm always interested in connecting with people who are learning, building, expe
 
 ---
 
-### ✨ *"Build things. Break things. Learn. Build again."*
+###  *"Build things. Break things. Learn. Build again."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akritisinha2007-arch\&style=flat-square\&color=blue)
 
 <!--
-Thanks for visiting my profile! ⭐
+Thanks for visiting my profile! 
 -->
 
